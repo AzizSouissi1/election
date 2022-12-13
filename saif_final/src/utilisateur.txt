@@ -1,0 +1,3 @@
+1 tunisienne aziz souissi 11152252 7 8 2001 aziz 123 0 11 electeur -1
+2 tunisienne hssan ghorbel 11155639 24 11 2001 hssan 12345 0 11 electeur -1
+3 tunisienne ines zidi 11169579 6 7 2001 ines 12345 1 12 electeur 0
